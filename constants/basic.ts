@@ -1,0 +1,1 @@
+export const TENNIS_SCORES = ['0', '15', '30', '40', 'Advantage', 'Game']
